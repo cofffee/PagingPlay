@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PagingCollectionViewPlay/ViewController.swift"
+            timestampString = "529512147.466876"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "setupContainerView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PagingCollectionViewPlay/PagingViewController.swift"
+            timestampString = "529511391.634108"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "pageViewController(_:viewControllerBefore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PagingCollectionViewPlay/ViewController.swift"
+            timestampString = "529512147.466876"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "selectTab(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PagingCollectionViewPlay.ViewController.selectTab (sender : __ObjC.UIButton) -&gt; ()"
+                  moduleName = "PagingCollectionViewPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kremig001c/Desktop/PagingCollectionViewPlay/PagingCollectionViewPlay/ViewController.swift"
+                  timestampString = "529512424.971882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "3248">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PagingCollectionViewPlay.ViewController.selectTab (sender : __ObjC.UIButton) -&gt; ()"
+                  moduleName = "PagingCollectionViewPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kremig001c/Desktop/PagingCollectionViewPlay/PagingCollectionViewPlay/ViewController.swift"
+                  timestampString = "529512424.973068"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "9279">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PagingCollectionViewPlay/ViewController.swift"
+            timestampString = "529512194.535446"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "selectTab(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PagingCollectionViewPlay.ViewController.selectTab (sender : __ObjC.UIButton) -&gt; ()"
+                  moduleName = "PagingCollectionViewPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kremig001c/Desktop/PagingCollectionViewPlay/PagingCollectionViewPlay/ViewController.swift"
+                  timestampString = "529512424.975706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "1165">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PagingCollectionViewPlay.ViewController.selectTab (sender : __ObjC.UIButton) -&gt; ()"
+                  moduleName = "PagingCollectionViewPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kremig001c/Desktop/PagingCollectionViewPlay/PagingCollectionViewPlay/ViewController.swift"
+                  timestampString = "529512424.976837"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "9264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
